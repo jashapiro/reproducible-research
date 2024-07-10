@@ -1,4 +1,5 @@
-## Childhood Cancer Data Lab - Reproducible Research Practices Training Workshop
+## Childhood Cancer Data Lab - Reproducible Research Practices Training Workshop (Josh's Version)
+
 
 This repository hosts the GitHub Pages website and certain materials for the Reproducible Research Practices workshop.
 
